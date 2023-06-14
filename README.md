@@ -2,13 +2,11 @@
 ## basic-express-server
 Author: Sham Al-Jalam
 
-* deployed application : [https://server-deployment-practice-oo7v.onrender.com/](https://server-deployment-practice-oo7v.onrender.com/)
-[Link text](link URL)
+* deployed application : [https://basic-express-server-wem5.onrender.com](https://basic-express-server-wem5.onrender.com)
 
+* Github actions: [https://github.com/ShamAhmad2022/basic-express-server/actions](https://github.com/ShamAhmad2022/basic-express-server/actions)
 
-* Github actions: [https://github.com/ShamAhmad2022/server-deployment-practice/actions](https://github.com/ShamAhmad2022/server-deployment-practice/actions)
-
-*  pull request: [https://github.com/ShamAhmad2022/server-deployment-practice/pull/2](https://github.com/ShamAhmad2022/server-deployment-practice/pull/2)
+*  pull request: [https://github.com/ShamAhmad2022/basic-express-server/pull/1](https://github.com/ShamAhmad2022/basic-express-server/pull/1)
 
 ### Setup:
 .env requirements:
