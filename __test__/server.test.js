@@ -19,5 +19,10 @@ describe('Server test', ()=>{
         expect(res.status).toEqual(200);
     })
 
+    it('given an name in the query string, the output object is correct', async ()=> {
+        let name='sham';
+        const res = await req.get(`/person?name=${name}`);
+        expect(res.body.name).toEqual(name);
+    })
 
 })
